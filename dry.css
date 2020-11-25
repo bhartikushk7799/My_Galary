@@ -1,0 +1,123 @@
+body
+{
+background-image:url('fab.png');
+background-size:100%;
+
+}
+#mypro
+{
+background:linear-gradient(white,yellow,pink);
+color:red;
+}
+h1
+{
+text-shadow:10px 10px 10px gray;
+}
+#pro
+{
+	height:100;
+	width:100;
+	border-radius:50px;
+}
+#pro:hover
+{
+	box-shadow:10px 10px 10px gray;
+	border:double pink 7px;
+}
+h2
+{
+	color:blue;
+}
+
+#gel
+{
+	height:50;
+background:linear-gradient(white,gray);
+color:yellow;	
+border:double pink 10px;
+}
+#bingo1
+{
+	background-color:rgba(0,255,255,0.5);
+	color:pink;
+	height:200;
+	width:300;
+	margin-top:20;
+	text-shadow:10px 10px 10px red;
+		box-shadow:10px 10px 10px 1px white;
+		border:double pink 10px; 	
+}
+#bingo2
+{
+	background-color:rgba(0,255,255,0.5);
+	color:pink;
+	height:200;
+    width:300;
+	margin-top:-20;
+    margin-left:340;
+	text-shadow:10px 10px 10px red;
+		box-shadow:10px 10px 10px 1px white;
+		border:dashed pink 10px; 	
+}
+#bingo3
+{
+	background-color:rgba(0,255,255,0.5);
+	color:pink;
+	height:200;
+    width:300;
+	margin-top:-20;
+    margin-left:340;
+	text-shadow:10px 10px 10px red;
+		box-shadow:10px 10px 10px 1px white;
+		border:dotted pink 10px; 	
+}
+#bingo4
+{
+	background-color:rgba(0,255,255,0.5);
+	color:pink;
+	height:200;
+    width:300;
+	margin-top:-20;
+    margin-left:340;
+	text-shadow:10px 10px 10px red;
+			box-shadow:10px 10px 10px 1px white;
+		border:double pink 10px; 
+}
+#bingo ul li
+{
+	display:inline-block;
+	padding:20px;
+}
+#bingo ul li:hover
+{
+	display:inline-block;
+	padding:20px;
+	background-color:blue;
+	border-radius:10px 20px;
+	box-shadow:10px 10px 10px 1px white;
+}
+.ab:hover
+{
+	border-radius:10px 30px;
+	background:linear-gradient(white,blue);
+	box-shadow:10px 10px 10px 1px white;
+}
+img
+{
+	height:300;
+	width:274;
+		border:double yellow 10px; 
+}
+img:hover
+{
+	opecity:o.1;
+	border:dashed pink 10px; 
+	box-shadow:10px 10px 10px 1px white;
+	border-radius:30px;	
+}
+#size
+{
+		height:1000;
+	width:900;
+	border:double blue 10px;
+}
